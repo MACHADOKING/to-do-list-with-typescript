@@ -1,11 +1,11 @@
 // CSS
-import "./Footer.css";
+import styles from "./Footer.module.css";
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className={styles.footer}>
       <p>
-        <span>Rect + TS Todo</span> @2023
+        <span>React + TS Todo</span> @2023
       </p>
     </footer>
   );
