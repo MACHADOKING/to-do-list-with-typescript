@@ -5,6 +5,10 @@
   padding: 2em;
 }
 
+.position {
+  position: relative;
+}
+
 .main h2 {
   margin-bottom: 0.8em;
 }
