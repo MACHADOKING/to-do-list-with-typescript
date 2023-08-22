@@ -1,5 +1,7 @@
 // CSS
 import styles from "./App.module.css";
+// Interface
+import { ITask } from "./interfaces/Task";
 // components
 import Header from "./components/Header";
 import Footer from "./components/Footer";
